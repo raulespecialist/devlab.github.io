@@ -1,6 +1,6 @@
 import React from "react";
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route,
   Link
@@ -17,7 +17,7 @@ import {
 
 export default function BasicExample() {
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router>
       <div>
      
 
@@ -35,7 +35,7 @@ export default function BasicExample() {
           <Route path="/about">
             <About />
           </Route>
-          <Route path="/dashboard">
+          <Route path="dashboard">
             <Dashboard />
           </Route>
         </Switch>
@@ -74,7 +74,7 @@ function Home() {
         <p class="line4">><span class="cursor4">_</span></p>
         </div>
         <footer class="absolute left-0 right-0 bottom-0">
-        <a className="ampstart-btn inline-block ampstart-fullpage-hero-cta h5 m3 text-decoration-none" href="/about">Projects</a>
+        <a className="ampstart-btn inline-block ampstart-fullpage-hero-cta h5 m3 text-decoration-none" href="#/about">Projects</a>
         </footer>
         </figcaption>
         </figure>
