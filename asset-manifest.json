@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/raulespecialist/raulespecialist.github.io/static/css/main.d8017e55.chunk.css",
-    "main.js": "/raulespecialist/raulespecialist.github.io/static/js/main.e6e37873.chunk.js",
-    "main.js.map": "/raulespecialist/raulespecialist.github.io/static/js/main.e6e37873.chunk.js.map",
-    "runtime-main.js": "/raulespecialist/raulespecialist.github.io/static/js/runtime-main.6c07118e.js",
-    "runtime-main.js.map": "/raulespecialist/raulespecialist.github.io/static/js/runtime-main.6c07118e.js.map",
-    "static/js/2.64a34b40.chunk.js": "/raulespecialist/raulespecialist.github.io/static/js/2.64a34b40.chunk.js",
-    "static/js/2.64a34b40.chunk.js.map": "/raulespecialist/raulespecialist.github.io/static/js/2.64a34b40.chunk.js.map",
-    "index.html": "/raulespecialist/raulespecialist.github.io/index.html",
-    "static/css/main.d8017e55.chunk.css.map": "/raulespecialist/raulespecialist.github.io/static/css/main.d8017e55.chunk.css.map",
-    "static/js/2.64a34b40.chunk.js.LICENSE.txt": "/raulespecialist/raulespecialist.github.io/static/js/2.64a34b40.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.d8017e55.chunk.css",
+    "main.js": "/static/js/main.e6e37873.chunk.js",
+    "main.js.map": "/static/js/main.e6e37873.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8c82cdab.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8c82cdab.js.map",
+    "static/js/2.64a34b40.chunk.js": "/static/js/2.64a34b40.chunk.js",
+    "static/js/2.64a34b40.chunk.js.map": "/static/js/2.64a34b40.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d8017e55.chunk.css.map": "/static/css/main.d8017e55.chunk.css.map",
+    "static/js/2.64a34b40.chunk.js.LICENSE.txt": "/static/js/2.64a34b40.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6c07118e.js",
+    "static/js/runtime-main.8c82cdab.js",
     "static/js/2.64a34b40.chunk.js",
     "static/css/main.d8017e55.chunk.css",
     "static/js/main.e6e37873.chunk.js"
