@@ -1,6 +1,6 @@
 import React from "react";
 import {
-  HashRouter as Router,
+  BrowserRouter as Router,
   Switch,
   Route,
   Link
@@ -17,7 +17,7 @@ import {
 
 export default function BasicExample() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div>
      
 
